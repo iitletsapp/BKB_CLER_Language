@@ -1,0 +1,202 @@
+<resources>
+
+    <string name="app_name">Quanto Banca Cler</string>
+
+
+
+    <!---***************************ONBOARDING****************************** -->
+    <string name="quickly_appraise_private_properties">Stimare facilmente un immobile</string>
+    <string name="take_a_picture_of_a_property_and_quanto_will_show_you_its_value">Fotografi un immobile di suo interesse e Quanto ne valuterà il valore.</string>
+    <string name="lets_go">Pronti… via!</string>
+
+    <!---********************************************************* -->
+
+    <!---***************************REGISTRATION****************************** -->
+    <string name="registration">Registrazione</string>
+    <string name="first_name">Nome</string>
+    <string name="last_name">Cognome</string>
+    <string name="email">E-mail</string>
+    <string name="we_will_send_you_the_quick_valuation_to_this_address">(La stima sarà inviata a questo indirizzo.)</string>
+    <string name="mobile_number">Numero di cellulare</string>
+    <string name="you_will_receive_a_validation_code_by_sms">(Riceverà un codice di validazione tramite SMS.)</string>
+    <string name="i_accept_the_terms_and_conditions"><u>Accetto le condizioni d\&#x27;uso</u></string>
+    <string name="register">Registrare</string>
+    <string name="please_enter_first_name">Per favore inserite il vostro nome.</string>
+    <string name="please_enter_last_name">Per favore inserite il vostro cognome.</string>
+    <string name="please_enter_e_mail">Per favore inserite il vostro e-mail.</string>
+    <string name="invalid_email">Email non valido</string>
+    <string name="please_enter_mobile_number">Per favore indicate il numero di cellulare.</string>
+    <string name="invalid_mobile_number">Numero di cellulare non valido.</string>
+    <string name="failed_to_log_in">Impossibile registrarsi.</string>
+
+    <!---********************************************************* -->
+
+
+
+    <!---***************************OTP****************************** -->
+
+    <string name="we_have_sent_you_a_code_by_sms_to_the_following_number">
+        Le abbiamo inviato un codice tramite SMS al seguente numero:</string>
+    <string name="enter_the_code">Inserire il codice</string>
+    <string name="confirm">Confermare</string>
+    <string name="havent_received_yet">Non ha ancora ricevuto niente?</string>
+    <string name="re_send_the_code">Inviare nuovamente il codice</string>
+
+    <string name="please_enter_the_code">Per favore inserite il codice.</string>
+    <string name="please_wait_while_we_send_the_code">Per favore aspettate intanto che vi inviamo il codice.</string>
+    <string name="please_check_your_phone_for_the_code">Per favore controllate il codice sul vostro cellulare.</string>
+    <string name="failed_to_resend_the_code">Impossibile inviare nuovamente il codice.</string>
+    <string name="failed_to_verify_the_code">Impossibile verificare il codice.</string>
+    <string name="invalid_code">Codice non valido.</string>
+
+    <string name="looks_like_there_is_a_problem_with_the_code">Sembra che ci sono dei problemi nella ricezione del codice.</string>
+
+
+
+
+    <!---********************************************************* -->
+
+
+    <!---***************************LOCATION PERMISSION****************************** -->
+    <string name="access_to_your_location">Accesso alla sua posizione</string>
+    <string name="quanto_needs_your_location_to_locate_the_properties_Please_activate_the_location_services">
+        Quanto deve poter determinare la sua posizione per localizzare gli immobili. La preghiamo di attivare i servizi di localizzazione.</string>
+    <string name="enable_location_service">Attivare il servizio di localizzazione</string>
+    <string name="do_not_allow">Non consentire</string>
+    <string name="unable_to_access_the_Location">Impossibile accedere al serivizio di localizzazione.</string>
+    <string name="to_enable_access_go_to_Settings_Privacy_location_services_and_turn_on_location_access_for_this_app">
+        Per consentire l\'accesso, andate su Impostazioni > Privacy > Servizi di localizzazione e consentite l\'accesso per questa applicazione.
+</string>
+    <string name="unable_to_access_the_Camera">Impossibile accedere alla macchina fotografica.</string>
+
+    <string name="to_enable_access_go_to_setting_privacy_camera_and_turn_on_camera_access_for_this_app">Per consentire l\'accesso, andate su Impostazioni > Privacy > Macchina fotografica e consentite l\'accesso per questa applicazione.</string>
+    <!---********************************************************* -->
+
+    <!---***************************CLICK PHOTO****************************** -->
+
+    <string name="take_a_picture_of_a_property">Fotografi un immobile</string>
+    <string name="capture_photo">Fotografare</string>
+    <string name="permission_required">Autorizzazione richiesta</string>
+    <string name="telephone_delivery_is_required">Conferma telefonica richiesta</string>
+    <string name="sorry_at_the_moment_there_seems_to_be_a_problem_with_the_network">Ci dispiace, al momento sembra che ci sia un problema con la rete.</string>
+
+
+    <!---********************************************************* -->
+
+
+    <!---***************************AIM FOR VALUATION****************************** -->
+    <string name="purpose_of_valuation">Scopo della stima</string>
+    <string name="i_want_to_buy">Desidero acquistare</string>
+    <string name="i_want_to_sell">Desidero vendere</string>
+    <string name="i_want_to_appraise_my_property">Stimare la mia abitazione di proprietà</string>
+    <string name="continues">Continuare</string>
+
+    <string name="please_select_one_option_to_continue">Voglia selezionare un\'opzione prima di procedere.</string>
+
+    <!---********************************************************* -->
+
+
+    <!---***************************DEFAULT APP. SCREEN LOADING****************************** -->
+    <string name="quanto_conducts_a_quick_valuation_for_a_typical_object_at_your_location">
+        Quanto effettua la stima concisa di un oggetto tipico in quella zona.</string>
+    <string name="retry">Riprovare</string>
+    <string name="oop">Oops!</string>
+    <string name="quanto_can_not_recognize_a_property_it_looks_like">
+        Quanto non è in grado di riconoscere alcun immobile. Ha individuato però:</string>
+    <string name="take_a_new_picture">Fotografare nuovamente</string>
+
+    <string name="failed_to_get_default_appraisal_please_try_again_later">Impossibile effetuare una stima, siete pregati di riprovare più tardi.</string>
+
+    <!---********************************************************* -->
+
+    <!---***************************ESTIMATE SCREEN****************************** -->
+
+    <string name="estimated_value">Valore stimato</string>
+    <string name="surface">Superficie</string>
+    <string name="rooms">Locali</string>
+    <string name="year"> Anno</string>
+    <string name="value_calculated_by_iazi">Valore indicativo calcolato da CIFI.</string>
+    <string name="more_information_about_the_methodology_in_the_faq">
+        <u>Maggiori informazioni sul metodo di calcolo sono riportate nelle FAQ.</u></string>
+    <string name="estimate_the_object_more_precisely">Precisare la stima</string>
+    <string name="single_family_house"> Casa unifamiliare</string>
+    <string name="condominium">Appartamento</string>
+    <string name="land_surface_area">Superficie del fondo (1&#8211;1500m<sup><small>2</small></sup>)</string>
+    <string name="net_liviing_area"> Superficie abitabile netta (1&#8211;300m<sup><small>2</small></sup>)</string>
+    <string name="no_of_rooms">Numero di locali (1-10)</string>
+    <string name="year_of_construction_or_renovation">Anno di costruzione o dell\'ultima grande ristrutturazione</string>
+    <string name="map">Piantina</string>
+    <string name="re_appraise_the_object">Aggiornare la stima</string>
+    <string name="send_report_to_my_e_mail">Desidero il rapporto per e-mail</string>
+
+
+    <string name="net_living_area_superscript"> m&lt;sup&gt;&lt;small&gt;2&lt;/small&gt;&lt;/sup&gt;</string>
+    <string name="failed">fallito</string>
+    <string name="failed_to_send_your_appraisal">Impossibile inviare il rapporto di stima.</string>
+    <string name="cancel">Annullare</string>
+
+    <string name="surface_superscript">233 m<sup><small>2</small></sup></string>
+
+    <string name="the_report_was_successfully_sent_to_your_e_mail_address">
+        Il rapporto è stato inviato con successo al suo indirizzo e-mail.</string>
+
+
+    <!---********************************************************* -->
+
+    <!---***************************SETTINGS****************************** -->
+
+    <string name="terms_n_conditions">Condizioni d\'uso</string>
+    <string name="delete_pictures">Elimina immagini</string>
+    <string name="frequently_asked_questions">Domande più frequenti (FAQ)</string>
+    <string name="settings"> Impostazioni</string>
+
+    <string name="are_you_sure_want_to_delete_the_images">Siete sicuri di voler eliminare le immagini?</string>
+    <string name="pictures_deleted_successfully">Immagini eliminate con successo.</string>
+    <string name="we_could_not_verify_the_connection_to_the_server_if_the_problem_persists_please_contact_us_at_infoatiazich">Non è stato possibile verificare la connessione al server. Se il problema persiste, contattateci all\' indirizzo info@iazi.ch</string>
+
+
+    <!---****************a***********MAPKEY****************************** -->
+
+    <string name="mapid">AIzaSyDuX-tn380Ja497RZAG4j7Gvj2FUmHkHLg</string>
+
+    <!---********************************************************* -->
+
+
+    <!---***************************ALERT DIALOGS****************************** -->
+
+
+    <string name="usage_limit_exceeded_try_again_tomorrow">Avete raggiunto il limite d\'utilizzo. Riprovate domani.</string>
+    <string name="thank_you">Grazie mille</string>
+    <string name="ok">OK</string>
+    <string name="sucessful">Riuscito</string>
+    <!---********************************************************* -->
+
+
+
+
+
+
+
+
+
+
+    <string name="font_avenir_roman">AvenirRoman</string>
+    <string name="font_sf__ui_display_regular">SFUIDisplayRegular</string>
+    <string name="font_sf_ui_display_heavy">SFUIDisplayHeavy</string>
+    <string name="font_sf_ui_display_light">SFUIDisplayLight</string>
+    <string name="font_sf_ui_display_medium">SFUIDisplay-Medium</string>
+    <string name="font_sf_text_semibold">SanFranciscoTextSemibold</string>
+    <string name="font_sf_text_medium">SanFranciscoTextMedium</string>
+    <string name="font_sf_text_bold">SanFranciscoTextBold</string>
+    <string name="font_sf_text_regular">SanFranciscoTextRegular</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
