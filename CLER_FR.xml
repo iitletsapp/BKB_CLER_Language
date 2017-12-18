@@ -5,7 +5,7 @@
 
     <!---***************************ONBOARDING****************************** -->
     <string name="quickly_appraise_private_properties">Estimer des biens immobiliers en toute simplicité</string>
-    <string name="take_a_picture_of_a_property_and_quanto_will_show_you_its_value">Prenez la photo du bien immobilier de votre choix: Quanto l\'estime.</string>
+    <string name="take_a_picture_of_a_property_and_app_will_show_you_its_value">Prenez la photo du bien immobilier de votre choix: Quanto l\'estime.</string>
     <string name="lets_go">C\'est parti!</string>
 
     <!---********************************************************* -->
@@ -53,7 +53,7 @@
 
     <!---***************************LOCATION PERMISSION****************************** -->
     <string name="access_to_your_location">Accès à votre position</string>
-    <string name="quanto_needs_your_location_to_locate_the_properties_Please_activate_the_location_services">
+    <string name="app_needs_your_location_to_locate_the_properties_please_activate_the_location_services">
         Quanto a besoin de votre position pour localiser le bien immobilier. Veuillez activer le service de localisation.</string>
     <string name="enable_location_service">Activer le service de localisation</string>
     <string name="do_not_allow">Ne pas autoriser</string>
@@ -91,13 +91,13 @@
 
 
     <!---***************************DEFAULT APP. SCREEN LOADING****************************** -->
-    <string name="quanto_conducts_a_quick_valuation_for_a_typical_object_at_your_location">
+    <string name="app_conducts_a_quick_valuation_for_a_typical_object_at_your_location">
         Quanto effectue une estimation sommaire d\'un objet caractéristique là où vous vous trouvez.</string>
     <string name="retry">Répéter</string>
     <string name="oop">Oups!</string>
-    <string name="quanto_can_not_recognize_a_property_it_looks_like">
+    <string name="app_cannot_recognize_a_property_it_looks_like">
         Quanto ne reconnaît aucun bien immobilier. Il identifie: </string>
-    <string name="take_a_new_picture">Prendre une nouvelle photo</string>
+    <string name="take_another_picture">Prendre une nouvelle photo</string>
 
     <string name="failed_to_get_default_appraisal_please_try_again_later">Aucune évaluation standard n\'a été effectuée, veuillez réessayer plus tard.</string>
 
@@ -150,11 +150,6 @@
     <!---********************************************************* -->
 
 
-    <!---***************************MAPKEY****************************** -->
-    <string name="mapid">AIzaSyDuX-tn380Ja497RZAG4j7Gvj2FUmHkHLg</string>
-    <!---********************************************************* -->
-
-
 
     <!---*************************** ALERT DIALOGS****************************** -->
 
@@ -170,7 +165,17 @@
 
 
 
+    // iOS only
+    <string name="It_appears_that_either_your_device_doesn_t_have_camera_or_its_broken">Soit votre appareil n\'a pas d\'appareil de photo, soit il est cassé.</string>
 
+
+
+    <!--*********** ANDROID ONLY***********************-->
+    <!---***************************MAPKEY****************************** -->
+
+    <string name="mapid">AIzaSyDuX-tn380Ja497RZAG4j7Gvj2FUmHkHLg</string>
+
+    <!---********************************************************* -->
 
 
     <!---*********************************************************** -->
