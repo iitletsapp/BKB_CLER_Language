@@ -150,7 +150,7 @@
     <string name="frequently_asked_questions">Domande più frequenti (FAQ)</string>
     <string name="settings"> Impostazioni</string>
 
-    <string name="are_you_sure_want_to_delete_the_images">Siete sicuri di voler eliminare le immagini?</string>
+    <string name="are_you_sure_want_to_delete_the_images">È sicuro/a di voler eliminare le immagini?</string>
     <string name="pictures_deleted_successfully">Immagini eliminate con successo.</string>
     <string name="we_could_not_verify_the_connection_to_the_server_if_the_problem_persists_please_contact_us_at_infoatiazich">Non è stato possibile verificare la connessione al server. Se il problema persiste, contattateci all\' indirizzo info@iazi.ch</string>
 
