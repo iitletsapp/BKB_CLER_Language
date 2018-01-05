@@ -100,7 +100,7 @@
     <string name="retry">Wiederholen</string>
     <string name="oop">Hoppla!</string>
     <string name="app_cannot_recognize_a_property_it_looks_like">
-        Quanto kann keinekeine Immobilie erkennen, es sieht stattdessen: </string>
+        Quanto kann keine Immobilie erkennen, es sieht stattdessen: </string>
     <string name="take_another_picture">Neues Foto machen</string>
 
     <string name="failed_to_get_default_appraisal_please_try_again_later">
