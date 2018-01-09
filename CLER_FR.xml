@@ -26,7 +26,7 @@
     <string name="please_enter_e_mail">Veuillez entrer un e-mail.</string>
     <string name="invalid_email">E-mail non valable</string>
     <string name="please_enter_mobile_number">Veuillez entrer un numéro de portable.</string>
-    <string name="invalid_mobile_number">Numéro de portable non valable.</string>
+    <string name="invalid_mobile_number">Numéro de portable non valide.</string>
     <string name="failed_to_log_in">Impossible de se connecter.</string>
 
     <!---************************************************************ -->
