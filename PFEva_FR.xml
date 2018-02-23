@@ -1,0 +1,219 @@
+<resources>
+
+    <string name="app_name">PF Eva</string>
+
+
+    <!---***************************ONBOARDING****************************** -->
+    <string name="quickly_appraise_private_properties">Estimer des biens immobiliers en toute simplicité</string>
+    <string name="take_a_picture_of_a_property_and_app_will_show_you_its_value">Prenez la photo du bien immobilier de votre choix: PF \n EVA l\'estime.</string>
+    <string name="lets_go">C\'est parti!</string>
+
+    <!---********************************************************* -->
+
+    <!---***************************REGISTRATION****************************** -->
+    <string name="registration">Enregistrement</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="email">E-mail</string>
+    <string name="we_will_send_you_the_quick_valuation_to_this_address">
+        (L\'estimation sommaire sera envoyée à cette adresse.)</string>
+    <string name="mobile_number">Numéro de portable</string>
+    <string name="you_will_receive_a_validation_code_by_sms">(Vous allez recevoir un code de validation par SMS.)</string>
+    <string name="i_accept_the_terms_and_conditions"><u>J\&#x27;accepte les conditions d\&#x27;utilisation</u></string>
+    <string name="register">Enregistrer</string>
+    <string name="please_enter_first_name">Veuillez entrer un prénom.</string>
+    <string name="please_enter_last_name">Veuillez entrer un nom.</string>
+    <string name="please_enter_e_mail">Veuillez entrer un e-mail.</string>
+    <string name="invalid_email">E-mail non valable</string>
+    <string name="please_enter_mobile_number">Veuillez entrer un numéro de portable.</string>
+    <string name="invalid_mobile_number">Numéro de portable non valable.</string>
+    <string name="failed_to_log_in">Impossible de se connecter.</string>
+
+    <!---************************************************************ -->
+
+
+    <!---***************************OTP****************************** -->
+    <string name="we_have_sent_you_a_code_by_sms_to_the_following_number">
+        Nous vous avons envoyé le code par SMS au numéro suivant:</string>
+    <string name="enter_the_code">Entrer le code</string>
+    <string name="confirm">Confirmer</string>
+    <string name="havent_received_yet">N\'avez vous encore rien reçu?</string>
+    <string name="re_send_the_code">Envoyer à nouveau le code</string>
+
+    <string name="please_enter_the_code">Veuillez entrer le code.</string>
+    <string name="please_wait_while_we_send_the_code">Veuillez attendre pendant que nous envoyons le code.</string>
+    <string name="please_check_your_phone_for_the_code">Veuillez consulter votre portable pour le code.</string>
+    <string name="failed_to_resend_the_code">Impossible de renvoyer le code.</string>
+    <string name="failed_to_verify_the_code">Impossible de vérifier le code.</string>
+    <string name="invalid_code">Code non valable.</string>
+
+    <string name="looks_like_there_is_a_problem_with_the_code">Il semble qu\'il y a des problèmes pour recevoir le code.</string>
+
+    <!---********************************************************* -->
+
+    <!---***************************LOCATION PERMISSION****************************** -->
+    <string name="access_to_your_location">Accès à votre position</string>
+    <string name="app_needs_your_location_to_locate_the_properties_please_activate_the_location_services">
+        PF Eva a besoin de votre position pour localiser le bien immobilier. Veuillez activer le service de localisation.</string>
+    <string name="enable_location_service">Activer le service de localisation</string>
+    <string name="do_not_allow">Ne pas autoriser</string>
+    <string name="unable_to_access_the_Location">Impossible d\'accéder à la localisation</string>
+    <string name="to_enable_access_go_to_Settings_Privacy_location_services_and_turn_on_location_access_for_this_app">
+        Pour permettre l\'accès, allez à Paramètres > Confidentialité > Services de localisation et activez la localisation pour cette application.</string>
+    <string name="unable_to_access_the_Camera">Impossible d\'accéder à l\'appareil de photo</string>
+
+
+    <string name="to_enable_access_go_to_setting_privacy_camera_and_turn_on_camera_access_for_this_app">Pour permettre l\'accès, allez à Paramètres > Confidentialité > Appareil photo et activez l\'appareil photo pour cette application.</string>
+
+    <!---********************************************************* -->
+
+    <!---***************************CLICK PHOTO****************************** -->
+    <string name="take_a_picture_of_a_property">Prenez la photo d\'un bien immobilier</string>
+    <string name="capture_photo">Photographier</string>
+    <string name="permission_required">Autorisation nécessaire</string>
+    <string name="telephone_delivery_is_required">Une prestation par téléphone est demandée</string>
+    <string name="sorry_at_the_moment_there_seems_to_be_a_problem_with_the_network">Désolé, il y a un problème de réseau pour l\'instant.</string>
+
+
+    <!---********************************************************* -->
+
+
+    <!---***************************AIM FOR VALUATION****************************** -->
+    <string name="purpose_of_valuation">But de l\'estimation</string>
+    <string name="i_want_to_buy">J\'aimerais acheter</string>
+    <string name="i_want_to_sell">J\'aimerais vendre</string>
+    <string name="i_want_to_appraise_my_property">Estimer mon propre objet</string>
+    <string name="continues">Continuer</string>
+
+    <string name="please_select_one_option_to_continue">Sélectionnez une option pour continuer.</string>
+
+    <!---********************************************************* -->
+
+
+    <!---***************************DEFAULT APP. SCREEN LOADING****************************** -->
+    <string name="app_conducts_a_quick_valuation_for_a_typical_object_at_your_location">
+        PF Eva effectue une estimation sommaire d\'un objet caractéristique là où vous vous trouvez.</string>
+    <string name="retry">Répéter</string>
+    <string name="oop">Oups!</string>
+    <string name="app_cannot_recognize_a_property_it_looks_like">
+        PF Eva ne reconnaît aucun bien immobilier. Il identifie: </string>
+    <string name="take_another_picture">Prendre une nouvelle photo</string>
+
+    <string name="failed_to_get_default_appraisal_please_try_again_later">Aucune évaluation standard n\'a été effectuée, veuillez réessayer plus tard.</string>
+
+    <!---********************************************************* -->
+
+    <!---***************************ESTIMATE SCREEN****************************** -->
+    <string name="estimated_value">Valeur estimée</string>
+    <string name="surface">Superficie</string>
+    <string name="rooms">Pièces</string>
+    <string name="year">Année</string>
+    <string name="value_calculated_by_iazi">Valeur indicative estimée par CIFI.</string>
+    <string name="more_information_about_the_methodology_in_the_faq">
+        <u>Plus d\&#x27;informations sur la méthode dans les FAQ.</u></string>
+    <string name="estimate_the_object_more_precisely">Précisez l\'estimation</string>
+    <string name="single_family_house">Maison individuelle</string>
+    <string name="condominium">Appartement</string>
+    <string name="land_surface_area">Surface du terrain (1&#8211;1500m<sup><small>2</small></sup>)</string>
+    <string name="net_liviing_area">Surface habitable nette (1&#8211;300m<sup><small>2</small></sup>)</string>
+    <string name="no_of_rooms">Nombre de pièces (1-10)</string>
+    <string name="year_of_construction_or_renovation">Année de construction ou de la dernière rénovation</string>
+
+    <string name="affordability_calculator">Affordability Calculator</string>
+    <string name="yearly_revenues">Yearly revenues (\'000)</string>
+    <string name="yearly_revenues_popup">yearly revenues popup string</string>
+    <string name="details">Details</string>
+    <string name="gross_income">Gross income (\'000) </string>
+    <string name="bonus_income">Bonus income (\'000) </string>
+
+    <string name="own_capital">Own Capital (\'000)</string>
+    <string name="own_capital_popup">Own Capital popup string</string>
+    <string name="cash">Cash (\'000) </string>
+    <string name="advanced_withdrawal_2nd_pillar">Advanced withdrawal 2nd pillar</string>
+    <string name="advanced_withdrawal_3rd_pillar">Advanced withdrawal 3rd pillar</string>
+    <string name="other_funds">Other funds (\'000)</string>
+
+    <string name="good">gut</string>
+    <string name="medium">mittel</string>
+    <string name="poor">poor</string>
+    <string name="sustainability">Sustainability</string>
+    <string name="loan_to_value">Loan-to-value</string>
+
+
+    <string name="map">Plan</string>
+    <string name="re_appraise_the_object">Actualiser l\'estimation</string>
+    <string name="online_mortage">PF Online Hypothek</string>
+    <string name="arrange_appointment">Beratungstermin vereinbaren</string>
+    <string name="send_report_to_my_e_mail">Envoyer le rapport à mon adresse e-mail</string>
+
+
+    <string name="net_living_area_superscript"> m&lt;sup&gt;&lt;small&gt;2&lt;/small&gt;&lt;/sup&gt;</string>
+    <string name="failed">échoué</string>
+    <string name="failed_to_send_your_appraisal">L\'envoi de votre évaluation a échoué.</string>
+    <string name="cancel">Annuler</string>
+
+    <string name="surface_superscript">233 m<sup><small>2</small></sup></string>
+    <string name="the_report_was_successfully_sent_to_your_e_mail_address">
+        Le rapport a été envoyé avec succès à votre adresse e-mail.</string>
+
+    <!---********************************************************* -->
+
+    <!---***************************SETTINGS****************************** -->
+
+    <string name="terms_n_conditions">Conditions d\'utilisation</string>
+    <string name="delete_pictures">Effacer les photos</string>
+    <string name="frequently_asked_questions">Foire aux questions (FAQ)</string>
+    <string name="settings">Paramètres</string>
+
+    <string name="are_you_sure_want_to_delete_the_images">Êtes-vous sûr de vouloir effacer les photos?</string>
+    <string name="pictures_deleted_successfully">Images supprimées avec succès.</string>
+    <string name="we_could_not_verify_the_connection_to_the_server_if_the_problem_persists_please_contact_us_at_infoatiazich">Nous ne pouvons pas vérifier la connexion au serveur. Si le problème persiste, veuillez nous contacter à info@iazi.ch</string>
+
+
+
+    <!---********************************************************* -->
+
+
+
+    <!---*************************** ALERT DIALOGS****************************** -->
+
+
+    <string name="usage_limit_exceeded_try_again_tomorrow">Nombre d\'utilisations maximum atteint. Réessayer demain.</string>
+    <string name="thank_you">Merci beaucoup</string>
+    <string name="ok">OK</string>
+    <string name="sucessful">Avec succès</string>
+    <!---********************************************************* -->
+
+
+    <!---***************************STRINGS USED IN JAVA CODE****************************** -->
+
+
+
+    // iOS only
+    <string name="It_appears_that_either_your_device_doesn_t_have_camera_or_its_broken">Soit votre appareil n\'a pas d\'appareil de photo, soit il est cassé.</string>
+
+
+
+    <!--*********** ANDROID ONLY***********************-->
+    <!---***************************MAPKEY****************************** -->
+
+    <string name="mapid">AIzaSyDuX-tn380Ja497RZAG4j7Gvj2FUmHkHLg</string>
+
+    <!---********************************************************* -->
+
+
+    <!---*********************************************************** -->
+
+
+    <string name="font_avenir_roman">AvenirRoman</string>
+    <string name="font_sf__ui_display_regular">SFUIDisplayRegular</string>
+    <string name="font_sf_ui_display_heavy">SFUIDisplayHeavy</string>
+    <string name="font_sf_ui_display_light">SFUIDisplayLight</string>
+    <string name="font_sf_ui_display_medium">SFUIDisplay-Medium</string>
+    <string name="font_sf_text_semibold">SanFranciscoTextSemibold</string>
+    <string name="font_sf_text_medium">SanFranciscoTextMedium</string>
+    <string name="font_sf_text_bold">SanFranciscoTextBold</string>
+    <string name="font_sf_text_regular">SanFranciscoTextRegular</string>
+
+
+</resources>
