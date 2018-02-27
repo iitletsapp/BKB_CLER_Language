@@ -205,18 +205,5 @@
 
     <string name="mapid">AIzaSyBvzr6p-UA8czOnOeqreps_RfaIp6OWclc</string>
 
-
-
-    <string name="font_avenir_roman">AvenirRoman</string>
-    <string name="font_sf__ui_display_regular">SFUIDisplayRegular</string>
-    <string name="font_sf_ui_display_heavy">SFUIDisplayHeavy</string>
-    <string name="font_sf_ui_display_light">SFUIDisplayLight</string>
-    <string name="font_sf_ui_display_medium">SFUIDisplay-Medium</string>
-    <string name="font_sf_text_semibold">SanFranciscoTextSemibold</string>
-    <string name="font_sf_text_medium">SanFranciscoTextMedium</string>
-    <string name="font_sf_text_bold">SanFranciscoTextBold</string>
-    <string name="font_sf_text_regular">SanFranciscoTextRegular</string>
-
-
     <!---********************************************************* -->
 </resources>
