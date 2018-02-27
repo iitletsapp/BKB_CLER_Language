@@ -147,7 +147,7 @@
     <string name="re_appraise_the_object">Bewertung aktualisieren</string>
     <string name="online_mortage">PF Online Hypothek</string>
     <string name="arrange_appointment">Beratungstermin vereinbaren</string>
-    <string name="send_report_to_my_e_mail">E-Mail-Bericht an mich</string>
+    <string name="send_report_to_my_e_mail">Email-Bericht an mich</string>
 
 
     <string name="net_living_area_superscript"> m&lt;sup&gt;&lt;small&gt;2&lt;/small&gt;&lt;/sup&gt;</string>
@@ -157,7 +157,7 @@
     <string name="surface_superscript">233 m<sup><small>2</small></sup></string>
 
     <string name="the_report_was_successfully_sent_to_your_e_mail_address">
-        Der Bericht wurde erfolgreich an Ihre E-Mail-Adresse versandt.</string>
+        Der Bericht wurde erfolgreich an Ihre Email-Adresse versandt.</string>
 
 
     <!---********************************************************* -->
