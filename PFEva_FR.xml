@@ -126,8 +126,8 @@
     <string name="gross_income">Gross income (\'000) </string>
     <string name="bonus_income">Bonus income (\'000) </string>
 
-    <string name="own_capital">Own Capital (\'000)</string>
-    <string name="own_capital_popup">Own Capital popup string</string>
+    <string name="equity">Equity (\'000)</string>
+    <string name="equity_popup">Equity popup string</string>
     <string name="cash">Cash (\'000) </string>
     <string name="advanced_withdrawal_2nd_pillar">Advanced withdrawal 2nd pillar</string>
     <string name="advanced_withdrawal_3rd_pillar">Advanced withdrawal 3rd pillar</string>
@@ -136,7 +136,7 @@
     <string name="good">gut</string>
     <string name="medium">mittel</string>
     <string name="poor">poor</string>
-    <string name="sustainability">Sustainability</string>
+    <string name="affordability">Affordability</string>
     <string name="loan_to_value">Loan-to-value</string>
 
 
