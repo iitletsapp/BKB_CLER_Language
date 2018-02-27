@@ -139,7 +139,7 @@
     <string name="good">gut</string>
     <string name="medium">mittel</string>
     <string name="poor">schlecht</string>
-    <string name="sustainability">Tragbarkeit</string>
+    <string name="affordability">Tragbarkeit</string>
     <string name="loan_to_value">Belehnung</string>
 
     <string name="map">Lageplan</string>
