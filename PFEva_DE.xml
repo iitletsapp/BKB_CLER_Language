@@ -121,26 +121,26 @@
     <string name="year_of_construction_or_renovation">Baujahr oder letzte grosse Renovation</string>
 
 
-    <string name="affordability_calculator">Affordability Calculator</string>
-    <string name="yearly_revenues">Yearly revenues (\'000)</string>
+    <string name="affordability_calculator">Tragbarkeitsrechner</string>
+    <string name="yearly_revenues">Jahreseinkommen (\'000)</string>
     <string name="yearly_revenues_popup">yearly revenues popup string</string>
     <string name="details">Details</string>
-    <string name="gross_income">Gross income (\'000) </string>
-    <string name="bonus_income">Bonus income (\'000) </string>
+    <string name="gross_income">Bruttoeinkommen (\'000) </string>
+    <string name="bonus_income">Bonus (\'000) </string>
 
-    <string name="own_capital">Own Capital (\'000)</string>
+    <string name="own_capital">Eigenkapital (\'000)</string>
     <string name="own_capital_popup">Own Capital popup string</string>
-    <string name="cash">Cash (\'000) </string>
-    <string name="advanced_withdrawal_2nd_pillar">Advanced withdrawal 2nd pillar</string>
-    <string name="advanced_withdrawal_3rd_pillar">Advanced withdrawal 3rd pillar</string>
-    <string name="other_funds">Other funds (\'000)</string>
+    <string name="cash">Barmittel (\'000) </string>
+    <string name="advanced_withdrawal_2nd_pillar">Vorbezug 2. Säule</string>
+    <string name="advanced_withdrawal_3rd_pillar">Vorbezug 3. Säule</string>
+    <string name="other_funds">Weitere Mittel (\'000)</string>
 
 
     <string name="good">gut</string>
     <string name="medium">mittel</string>
-    <string name="poor">poor</string>
-    <string name="sustainability">Sustainability</string>
-    <string name="loan_to_value">Loan-to-value</string>
+    <string name="poor">schlecht</string>
+    <string name="sustainability">Tragbarkeit</string>
+    <string name="loan_to_value">Belehnung</string>
 
     <string name="map">Lageplan</string>
 
