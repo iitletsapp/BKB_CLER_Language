@@ -128,8 +128,8 @@
     <string name="gross_income">Bruttoeinkommen (\'000) </string>
     <string name="bonus_income">Bonus (\'000) </string>
 
-    <string name="own_capital">Eigenkapital (\'000)</string>
-    <string name="own_capital_popup">Own Capital popup string</string>
+    <string name="equity">Eigenkapital (\'000)</string>
+    <string name="equity_popup">Equity popup string</string>
     <string name="cash">Barmittel (\'000) </string>
     <string name="advanced_withdrawal_2nd_pillar">Vorbezug 2. Säule</string>
     <string name="advanced_withdrawal_3rd_pillar">Vorbezug 3. Säule</string>
